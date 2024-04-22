@@ -6,63 +6,63 @@ function Sidebar() {
           <ul>
             <li>
               <div className="sideImage">
-                <img src="./logo1.svg" alt="" />
+                <img src="/logo1.svg" alt="" />
               </div>
             </li>
 
             <li>
               <div className="iconImg menu active">
-                <img src="./icon/home.svg" alt="" />
+                <img src="/icon/home.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/catalogue.svg" alt="" />
+                <img src="/icon/catalogue.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/procurement.svg" alt="" />
+                <img src="/icon/procurement.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/calendar.svg" alt="" />
+                <img src="/icon/calendar.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/truck.svg" alt="" />
+                <img src="/icon/truck.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/package.svg" alt="" />
+                <img src="/icon/package.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/database.svg" alt="" />
+                <img src="/icon/database.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/users.svg" alt="" />
+                <img src="/icon/users.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/Invoice.svg" alt="" />
+                <img src="/icon/Invoice.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/reports.svg" alt="" />
+                <img src="/icon/reports.svg" alt="" />
               </div>
             </li>
             <li>
               <div className="iconImg menu">
-                <img src="./icon/analytics.svg" alt="" />
+                <img src="/icon/analytics.svg" alt="" />
               </div>
             </li>
           </ul>
@@ -70,7 +70,7 @@ function Sidebar() {
         {/* <img
           className="wrapper-group-6287-child"
           alt=""
-          src="./public/group-6287.svg"
+          src="/public/group-6287.svg"
         /> */}
       </div>
     </main>

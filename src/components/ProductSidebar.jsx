@@ -9,7 +9,7 @@ function ProductSidebar() {
             <img
               className="customer-logo-icon"
               alt=""
-              src="./public/frame-9.svg"
+              src="/public/frame-9.svg"
             />
           </div>
           <div className="customer-details">
@@ -26,7 +26,7 @@ function ProductSidebar() {
             <img
               className="location-logo-container-child"
               alt=""
-              src="./public/group-289570.svg"
+              src="/public/group-289570.svg"
             />
           </div>
           <div className="location-info">
@@ -41,7 +41,7 @@ function ProductSidebar() {
               <img
                 className="dispatch-logo-container-child"
                 alt=""
-                src="./public/group-289570-1@2x.png"
+                src="/public/group-289570-1@2x.png"
               />
             </div>
             <div className="dispatch-location">Dispatch Location</div>
@@ -123,7 +123,7 @@ function ProductSidebar() {
           <div className="frame-child38"></div>
           <div className="discount-label">
             <div className="discount-title">
-              <img className="frame-icon2" alt="" src="./public/frame-10.svg" />
+              <img className="frame-icon2" alt="" src="/public/frame-10.svg" />
 
               <div className="discount">Discount</div>
             </div>
