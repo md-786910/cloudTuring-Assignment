@@ -11,7 +11,7 @@ function Header() {
                     <img
                       className="search-2-line-3-1"
                       alt=""
-                      src="./public/search2line-3-1.svg"
+                      src="/search2line-3-1.svg"
                     />
                   </div>
                   <div className="search-label">
@@ -26,7 +26,7 @@ function Header() {
                         <img
                           className="command-icon"
                           alt=""
-                          src="./public/command.svg"
+                          src="/command.svg"
                         />
                       </div>
                       <div className="k">+K</div>
@@ -36,7 +36,7 @@ function Header() {
                         <img
                           className="command-icon1"
                           alt=""
-                          src="./public/command.svg"
+                          src="/command.svg"
                         />
                       </div>
                       <div className="shiftk">+Shift+K</div>
@@ -51,7 +51,7 @@ function Header() {
                     className="help-icon"
                     loading="lazy"
                     alt=""
-                    src="./public/help.svg"
+                    src="/help.svg"
                   />
                 </div>
                 <div className="upload-button">
@@ -59,7 +59,7 @@ function Header() {
                     className="upload-icon"
                     loading="lazy"
                     alt=""
-                    src="./public/upload.svg"
+                    src="/upload.svg"
                   />
                 </div>
                 <div className="file-uploader">
@@ -73,7 +73,7 @@ function Header() {
                         className="file-text-line-1-icon"
                         loading="lazy"
                         alt=""
-                        src="./public/filetextline-1.svg"
+                        src="/filetextline-1.svg"
                       />
 
                       <div className="rectangle-container">
@@ -89,7 +89,7 @@ function Header() {
                       className="notification-line-1-icon"
                       loading="lazy"
                       alt=""
-                      src="./public/notificationline-1.svg"
+                      src="/notificationline-1.svg"
                     />
 
                     <div className="group-div">
@@ -109,7 +109,7 @@ function Header() {
                       className="profile-icon"
                       loading="lazy"
                       alt=""
-                      src="./public/profile.svg"
+                      src="/profile.svg"
                     />
                   </div>
                 </div>
@@ -122,7 +122,7 @@ function Header() {
                       <img
                         className="arrow-down-s-fill-1-1"
                         alt=""
-                        src="./public/arrowdownsfill-1-1.svg"
+                        src="/arrowdownsfill-1-1.svg"
                       />
                     </div>
                   </div>
@@ -137,14 +137,14 @@ function Header() {
               <div className="breadcrumb">
                 <div className="breadcrumb1">
                   <div className="inline">
-                    <img className="home-icon" alt="" src="./public/home.svg" />
+                    <img className="home-icon" alt="" src="/home.svg" />
 
                     <div className="label">Home</div>
                   </div>
                   <img
                     className="slash-bold-icon"
                     alt=""
-                    src="./public/slashbold.svg"
+                    src="/slashbold.svg"
                   />
 
                   <div className="inline1">
@@ -152,13 +152,13 @@ function Header() {
                     <img
                       className="current-page-dropdown"
                       alt=""
-                      src="./public/current-page-dropdown@2x.png"
+                      src="/current-page-dropdown@2x.png"
                     />
                   </div>
                   <img
                     className="slash-bold-icon1"
                     alt=""
-                    src="./public/slashbold-1.svg"
+                    src="/slashbold-1.svg"
                   />
 
                   <div className="label2">Product Catalogue</div>
