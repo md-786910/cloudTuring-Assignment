@@ -21,7 +21,7 @@ function ProductFilter() {
                     <img
                       className="iconoutlinesearch"
                       alt=""
-                      src="/public/iconoutlinesearch.svg"
+                      src="/iconoutlinesearch.svg"
                     />
 
                     <div className="search-label1">
@@ -32,7 +32,7 @@ function ProductFilter() {
                     className="layout-toggle-icon"
                     loading="lazy"
                     alt=""
-                    src="/public/layout-toggle.svg"
+                    src="/layout-toggle.svg"
                   />
                 </div>
                 <div className="additional-filters">
@@ -56,7 +56,7 @@ function ProductFilter() {
                     className="date-range-icon"
                     loading="lazy"
                     alt=""
-                    src="/public/date-range.svg"
+                    src="/date-range.svg"
                   />
                 </div>
               </div>
@@ -67,7 +67,7 @@ function ProductFilter() {
                     <img
                       className="scan-dropdown-icon"
                       alt=""
-                      src="/public/frame-1.svg"
+                      src="/frame-1.svg"
                     />
 
                     <div className="scan-label">
@@ -87,7 +87,7 @@ function ProductFilter() {
                         <img
                           className="chevron-down-icon"
                           alt=""
-                          src="/public/chevrondown.svg"
+                          src="/chevrondown.svg"
                         />
                       </div>
                     </div>
@@ -97,7 +97,7 @@ function ProductFilter() {
                     <img
                       className="results-area-icon"
                       alt=""
-                      src="/public/frame-2.svg"
+                      src="/frame-2.svg"
                     />
                   </div>
                 </div>

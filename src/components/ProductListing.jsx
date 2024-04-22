@@ -8,7 +8,7 @@ function ProductListing() {
               <img
                 className="checkboxes-icon"
                 alt=""
-                src="/public/checkboxes@2x.png"
+                src="/checkboxes@2x.png"
               />
 
               <div className="rectangle-parent4">
@@ -27,7 +27,7 @@ function ProductListing() {
                     className="prev-icon"
                     loading="lazy"
                     alt=""
-                    src="/public/prev@2x.png"
+                    src="/prev@2x.png"
                   />
 
                   <div className="navigation-icon-container">
@@ -35,13 +35,13 @@ function ProductListing() {
                       className="navigation-icon-container-child"
                       loading="lazy"
                       alt=""
-                      src="/public/group-289589.svg"
+                      src="/group-289589.svg"
                     />
                   </div>
                 </div>
                 <div className="next">
                   <div className="next-child"></div>
-                  <img className="next-icon" alt="" src="/public/frame-3.svg" />
+                  <img className="next-icon" alt="" src="/frame-3.svg" />
                 </div>
               </div>
             </div>
@@ -86,7 +86,7 @@ function ProductListing() {
                     <img
                       className="date-range-icon1"
                       alt=""
-                      src="/public/date-range-1.svg"
+                      src="/date-range-1.svg"
                     />
 
                     <div className="date-range4">
@@ -106,7 +106,7 @@ function ProductListing() {
                         <img
                           className="item-action-button"
                           alt=""
-                          src="/public/frame-4.svg"
+                          src="/frame-4.svg"
                         />
                       </div>
                     </div>
